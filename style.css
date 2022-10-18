@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Внутренняя таблица стилей</title>
+<style type="text/css">
+body {
+    background-color:palegreen;
+}
+h1{
+<<<<<<< HEAD
+   color: green;
+=======
+   color: blue;
+>>>>>>> new-contacts
+   font-family:verdana;
+}
+p{
+   font-size:20px;
+   color:red;
+   text-align:center;
+}
+</style>
+</head>
+  <body>
+    <h1>Заголовок</h1>
+    <p>Текст первый</p>
+<<<<<<< HEAD
+    <p>Текст второй</p>
+=======
+    <img src="images/orange.jpg" alt="апельсин" width="150" height="147">
+    <p>Текст второй</p>
+    <img src="images/orange.jpg" alt="апельсин" width="150px" height="50px">
+>>>>>>> new-contacts
+    <p>Текст третий</p>
+  </body>
+</html>
